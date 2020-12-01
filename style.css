@@ -1,0 +1,60 @@
+h1{
+    color:white;
+    
+
+}
+*{
+    border:hidden;
+    
+
+}
+.header
+{
+    
+    background-color: rgba(80, 80, 80, 0.2);
+    color:#931909;
+    display:flex;
+    justify-content:space-between;
+    
+    left:20px
+    
+}
+a:link, a:visited
+{
+    color: white;
+    padding-top: 30px;
+    padding-right: 30px;
+}
+
+
+.grid
+{
+    display:flex;
+    
+    justify-content:space-evenly;
+    flex-wrap:wrap
+
+    
+}
+
+.p,h2
+{
+    text-align:center;
+}
+
+.minor
+{
+    display:flex;
+    justify-content: flex-end;
+    align-content: flex-end;
+    
+    position:absolute;
+    top:900px;
+    left:700px;
+}
+
+body
+{
+    background-image: url("https://wallpapertag.com/wallpaper/full/4/4/a/148576-hacking-wallpaper-2560x1600-for-hd.jpg");
+    height:1000px
+}
